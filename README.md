@@ -10,7 +10,9 @@ The example file will look like this:
 There are 1000 test patterns in the example case. The first and the second numbers are input a and input b (ex. 1268080854 and 1268081064), and the last number is the golden answer (ex.1).
 # Platform
 You may develop your software on UNIX/Linux.
+
 Compile: $ g++ main.cpp PrimeChecker.cpp
+
 Execution: $ ./a.out
 # Result
 
