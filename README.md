@@ -1,2 +1,2 @@
-# Data-structure
+# Primechecker
 c++ program
