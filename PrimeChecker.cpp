@@ -61,7 +61,7 @@ bool Miller_Rabbin(ul a, ul n)
 bool check(ul n) 
 {
 	ul times_32 = 1;
-	ul prime_32[3] = {126401071349994536};
+	ul prime_32[3] = {3};
 	for (ul j = 0; j < times_32; j++) {
                	if (Miller_Rabbin(prime_32[j], n) == false) {
                        	return false;
